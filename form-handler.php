@@ -7,7 +7,7 @@ $message = $_POST['message'];
 
 error_log(var_dump($name, $email, $message));
 // set the recipient email address
-$to = 'ibironketomiwa4@gmail.com';
+$to = 'stenlisuryadinata@gmail.com';
 
 // set the email subject
 $subject = 'New message from contact form';
